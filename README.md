@@ -1,4 +1,9 @@
 # bush_food
 
 
-first commit
+git clone <url>
+make changes
+git add .
+git commit -m "<meaningful message>"
+git push
+
